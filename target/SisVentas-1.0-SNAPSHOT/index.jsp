@@ -27,6 +27,7 @@
             #col-Login p{
             font-weight: 500;
             }
+
         </style>
     </head>
     <body>
